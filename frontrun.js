@@ -1,5 +1,5 @@
 /**
- * Perform a front-running attack on pancakeswap or uniswap Just configure it on your own settings
+ * Perform a front-running attack on pancakeswap or uniswap/polygon Just configure it on your own settings
 */
 //const fs = require('fs');
 var Web3 = require('web3');

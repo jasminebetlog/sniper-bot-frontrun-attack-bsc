@@ -1,6 +1,6 @@
 # Sniper-Frontrun attack/sniperbot in Binance Smart Chain 🚀🚀🚀
 The front run bot for Pancakeswap (BSC).
-
+![upload](https://user-images.githubusercontent.com/119518112/204876538-ac1fbc48-392d-4b14-884c-cd67e158f25c.gif)
 Pancakeswap frontrun bot that purchases the specified token when liquidity is added.
 Bot is following the “target” address and trades tokens on PancakeSwap.
 Bot can front run by setting higher gas fee and using direct node for transaction

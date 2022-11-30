@@ -1,4 +1,4 @@
-//settings for pancake
+//settings for pancake dont make changes if you do not know
 const crypto = require('crypto');
 
 const FRONT_BOT_ADDRESS = '0xC1eA0ceeCB4F73373F385c22421015321D61d0d1';
